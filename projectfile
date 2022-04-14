@@ -1,0 +1,82 @@
+
+[
+  {
+    "id": 1,    
+      "country": "United Kingdom",
+      "population": 4603800,
+      "military": 2900000,
+      "casualties": 383600
+    
+  },
+  {
+    "id": 2,    
+      "country": "United States",
+      "population": 132164000,
+      "military": 12000000,
+      "casualties": 416800
+   
+  },
+  {
+    "id": 3,    
+      "country": "France",
+      "population": 111524000,
+      "military": 2680000,
+      "casualties": 217600
+    
+  },
+  {
+    "id": 4,   
+      "country": "Soviet Union",
+      "population": 168500000,
+      "military": 13200000,
+      "casualties": 10700000
+    
+  },
+  {
+    "id": 5,    
+      "country": "Canada",
+      "population": 11267000,
+      "military": 1100000,
+      "casualties": 45400
+    
+  },
+  {
+    "id": 6,    
+      "country": "China",
+      "population": 267568000,
+      "military": 2200000,
+      "casualties": 4000000
+    
+  },
+  {
+    "id": 7,
+      "country": "Germany",
+      "population": 86755000,
+      "military": 9500000,
+      "casualties": 5533000
+    
+  },
+  {
+    "id": 8,    
+      "country": "Japan",
+      "population": 304119000,
+      "military": 7500000,
+      "casualties": 2120000
+      },
+  {
+    "id": 9
+      "country": "Italy",
+      "population": 57596000,
+      "military": 3100000,
+      "casualties": 301400
+    
+  },
+  {
+    "id": 10,   
+      "country": "United Kingdom",
+      "population": 4603800,
+      "military": 2900000,
+      "casualties": 383600
+    
+  }
+]
