@@ -70,13 +70,5 @@
       "military": 3100000,
       "casualties": 301400
     
-  },
-  {
-    "id": 10,   
-      "country": "United Kingdom",
-      "population": 4603800,
-      "military": 2900000,
-      "casualties": 383600
-    
   }
 ]
